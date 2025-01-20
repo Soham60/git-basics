@@ -1,2 +1,0 @@
-username=soh27
-password=gan04
